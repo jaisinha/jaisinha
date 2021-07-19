@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jai Sinha</h1>
 <h3 align="center">A passionate competitive coder who is learning about front end web development in free time</h3>
 <p align="left"> <a href="https://twitter.com/jaisinh86069905" target="blank"><img src="https://img.shields.io/twitter/follow/jaisinh86069905?logo=twitter&style=for-the-badge" alt="jaisinh86069905" /></a> 
-  <a align="left"> <a href="https://linkedin.com/in/jai-sinha-19938b1b7" target="blank"><img src=images/icons/Social/linked-in-alt.svg" alt="jai-sinha-19938b1b7" </a></p>
+  <a align="left"> <a href="https://linkedin.com/jai-sinha-19938b1b7" target="blank"><img src=https://img.shields.io/linkedin/follow/jai-sinha-19938b1b7?logo=linkedin&style=for-the-badge" alt="jai-sinha-19938b1b7" </a></p>
 
 - 🔭 I’m currently working on [J.A.R.V.I.S](https://github.com/jaisinha/J.A.R.V.I.S#readme)
 
