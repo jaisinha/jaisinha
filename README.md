@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/jai-sinha-19938b1b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai-sinha-19938b1b7" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jai sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jai sinha" height="30" width="40" /></a>
 <a href="https://instagram.com/jaisinha9800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaisinha9800" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jai02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jai02" height="30" width="40" /></a>
+<a href="https://codechef.com/users/jai02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jai02" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jaioff02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jaioff02" height="30" width="40" /></a>
 </p>
 
