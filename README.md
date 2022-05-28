@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [J.A.R.V.I.S](https://github.com/jaisinha/J.A.R.V.I.S#readme)
 
-- 🌱 I’m currently learning **DSA and also a little bit of JS**
+- 🌱 I’m currently learning **DSA and also a little bit of React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaisinha?tab=repositories](https://github.com/jaisinha?tab=repositories)
 
