@@ -1,3 +1,5 @@
+<h2>Hello there!</h2>
+<img src="https://media.tenor.com/1VAMPydBIokAAAAC/obi-wan-kenobi-star-wars.gif" width="900">
 <h1 align="center">Hi 👋, I'm Jai Sinha</h1>
 <h3 align="center">A passionate competitive coder who is learning about front end web development in free time</h3>
 <p align="left"> <a href="https://linkedin.com/in/jai-sinha-19938b1b7" target="blank"><img src="https://img.shields.io/badge/follow/jai-sinha-19938b1b7?style=for-the-badge&logo=linkedin"></a></p>
