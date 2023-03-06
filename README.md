@@ -4,13 +4,13 @@
 <h3 align="center">A passionate competitive coder who is also a Full Stack Developer</h3>
 <p align="left"> <a href="https://linkedin.com/in/jai-sinha-19938b1b7" target="blank"><img src="https://img.shields.io/badge/follow/jai-sinha-19938b1b7?style=for-the-badge&logo=linkedin"></a></p>
 
-- 🔭 I’m currently working on [J.A.R.V.I.S](https://github.com/jaisinha/J.A.R.V.I.S#readme)
+- 🔭 I’m currently working on my Portfolio Website
 
-- 🌱 I’m currently learning **DSA and also a little bit of React**
+- 🌱 I’m currently learning **Advance DSA concepts like Tries and Fenwick Trees**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaisinha?tab=repositories](https://github.com/jaisinha?tab=repositories)
 
-- 💬 Ask me about **questions regarding competitive programming**
+- 💬 Ask me about **questions regarding DSA,Competitive Programming and FullStack Development**
 
 - 📫 How to reach me **jaioff02@gmail.com**
 
